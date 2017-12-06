@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Whoever</authors>
+    <owners>$author$</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A demo nuget package</description>
+    <releaseNotes>First release of a demo package</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+</package>
